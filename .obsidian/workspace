@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "8cfee346e221cafa",
+    "type": "split",
+    "children": [
+      {
+        "id": "118c7e091ccbf348",
+        "type": "split",
+        "children": [
+          {
+            "id": "df501eaf64a471ac",
+            "type": "leaf",
+            "dimension": 70.49576783555018,
+            "state": {
+              "type": "graph",
+              "state": {}
+            },
+            "group": "f01ce6a9ffad34aa"
+          },
+          {
+            "id": "51125231b8ac80f0",
+            "type": "leaf",
+            "dimension": 29.504232164449817,
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Software Engineering/Semantic Versioning.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            },
+            "group": "f01ce6a9ffad34aa"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "14ca13ada523b6da",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a79413694029580",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dd310d8f5e8b203",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "838df0dea6fccd2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Rust",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca81c8b94da59152",
+    "type": "split",
+    "children": [
+      {
+        "id": "f54419ff5bfa6c78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a04657e34f1b999",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "df501eaf64a471ac",
+  "lastOpenFiles": [
+    "Software Engineering/Untitled.md",
+    "Software Engineering/Rust.md",
+    "Software Engineering/DevOps Programming Languages.md",
+    "Software Engineering/Software Engineering.md",
+    "README.md",
+    "Software Engineering/React Native.md",
+    "Software Engineering/React.js.md",
+    "Software Engineering/Node.js.md",
+    "Software Engineering/(COMPLETED) Node.js.md",
+    "Software Engineering/JS Frameworks.md"
+  ]
+}
