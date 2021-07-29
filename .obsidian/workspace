@@ -4,40 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "118c7e091ccbf348",
-        "type": "split",
-        "children": [
-          {
-            "id": "df501eaf64a471ac",
-            "type": "leaf",
-            "dimension": 70.49576783555018,
-            "state": {
-              "type": "graph",
-              "state": {}
-            },
-            "group": "f01ce6a9ffad34aa"
-          },
-          {
-            "id": "51125231b8ac80f0",
-            "type": "leaf",
-            "dimension": 29.504232164449817,
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Software Engineering/Semantic Versioning.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            },
-            "group": "f01ce6a9ffad34aa"
+        "id": "df501eaf64a471ac",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -64,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Rust",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +88,15 @@
   },
   "active": "df501eaf64a471ac",
   "lastOpenFiles": [
-    "Software Engineering/Untitled.md",
-    "Software Engineering/Rust.md",
-    "Software Engineering/DevOps Programming Languages.md",
-    "Software Engineering/Software Engineering.md",
     "README.md",
-    "Software Engineering/React Native.md",
-    "Software Engineering/React.js.md",
-    "Software Engineering/Node.js.md",
-    "Software Engineering/(COMPLETED) Node.js.md",
-    "Software Engineering/JS Frameworks.md"
+    "Untitled.md",
+    "src/Death.md",
+    "src/Design and Development Principles.md",
+    "src/Grand Strategy.md",
+    "Grand Strategy.md",
+    "src/Rust.md",
+    "Untitled 1.md",
+    "Software Engineering/Networking, Security, and Protocols.md",
+    "Software Engineering/Untitled.md"
   ]
 }

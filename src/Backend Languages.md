@@ -1,6 +1,6 @@
 [[Java]]
 [[C Sharp]]
 [[PHP]]
-[[Javascript]]
+[[JavaScript]]
 [[Python]]
 [[Ruby]]

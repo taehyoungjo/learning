@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:complete",
       "color": {
         "a": 1,
-        "rgb": 65280
+        "rgb": 2413825
+      }
+    },
+    {
+      "query": "tag:in-progress",
+      "color": {
+        "a": 1,
+        "rgb": 16772608
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 3.9083678246229963,
+  "scale": 0.9172108388002921,
   "close": false
 }
