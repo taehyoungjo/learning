@@ -16,5 +16,7 @@ The body will be a collection of topics/documents followed by a resource or many
 I'll have annotations to make each document readable from top to bottom such that any given document and its children forms a independently complete and coherent resource.
 The goal is to ultimately compose of all documents from atomic documents of topic-annotation-resource(s)
 # Roadmaps
+[[My Yale Computer Science Degree]]
+[[My Yale Degree]]
 [[Software Engineering]]
-[[Electrical Engineering]]
+[[Economics]]

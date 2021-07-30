@@ -1,4 +1,4 @@
 Most of the content for these roadmaps was pulled from https://roadmap.sh/
-[[Client Side Development]]
+[[Frontend Development]]
 [[Backend Development]]
 [[DevOps]]

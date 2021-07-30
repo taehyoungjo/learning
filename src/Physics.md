@@ -1,0 +1,1 @@
+[Susan Fowler -- So You Want to Learn Physics (Second Edition)](https://www.susanrigetti.com/physics)

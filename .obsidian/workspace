@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df501eaf64a471ac",
+        "id": "432b3f51673b8ccb",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -39,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "UI",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,20 +79,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "df501eaf64a471ac",
+  "active": "432b3f51673b8ccb",
   "lastOpenFiles": [
-    "README.md",
-    "src/Robotics 1.md",
     "Untitled.md",
-    "src/Death.md",
-    "src/Design and Development Principles.md",
-    "src/Grand Strategy.md",
-    "Grand Strategy.md",
-    "src/Rust.md",
-    "Untitled 1.md",
-    "Software Engineering/Networking, Security, and Protocols.md"
+    "src/Design.md",
+    "src/Figma.md",
+    "src/Client Side Development.md",
+    "src/Software Engineering.md",
+    "README.md",
+    "Computational Vision and Biological Perception.md",
+    "src/My Yale Computer Science Degree.md",
+    "Technology and Culture.md",
+    "China.md"
   ]
 }

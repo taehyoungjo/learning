@@ -1,0 +1,1 @@
+[A Deficit of Leadership](https://8vc.com/2016/08/09/a-deficit-of-leadership/)
