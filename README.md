@@ -1,6 +1,7 @@
 # Introduction
 I'm hoping to use this to map out what I want to learn and why I want to learn what I want to learn.
 I'm also going to highlight the most valuable learning resources for each topic along the way.
+If you would like to contribute, open a pull request with changes or a suggestion in Github issues
 ## Conventions
 ### Status
 Documents will be tagged by completion status.
