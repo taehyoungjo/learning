@@ -7,7 +7,7 @@
         "id": "432b3f51673b8ccb",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "graph",
           "state": {}
         }
       }
@@ -83,15 +83,15 @@
   },
   "active": "432b3f51673b8ccb",
   "lastOpenFiles": [
-    "Untitled.md",
-    "src/Design.md",
-    "src/Figma.md",
-    "src/Client Side Development.md",
-    "src/Software Engineering.md",
+    "src/The Rise of China.md",
+    "src/My Yale Degree.md",
     "README.md",
-    "Computational Vision and Biological Perception.md",
     "src/My Yale Computer Science Degree.md",
-    "Technology and Culture.md",
-    "China.md"
+    "src/Computational Vision and Biological Perception.md",
+    "src/Discrete Mathematics.md",
+    "src/Data Structures and Programming Techniques (X).md",
+    "src/Yale - Systems Programming and Computer Organization (X).md",
+    "src/Systems Programming.md",
+    "src/(X) Data Structures and Programming Techniques.md"
   ]
 }
