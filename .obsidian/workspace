@@ -4,10 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "432b3f51673b8ccb",
+        "id": "d2aac208a22ad125",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "UI",
+                "query": "react native",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,17 +82,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "432b3f51673b8ccb",
+  "active": "d2aac208a22ad125",
   "lastOpenFiles": [
+    "React Native Animations.md",
+    "src/React Native.md",
+    "src/Mobile Development.md",
+    "src/Design.md",
+    "src/Figma.md",
+    "README.md",
+    "src/Untitled.md",
     "src/The Rise of China.md",
     "src/My Yale Degree.md",
-    "README.md",
-    "src/My Yale Computer Science Degree.md",
-    "src/Computational Vision and Biological Perception.md",
-    "src/Discrete Mathematics.md",
-    "src/Data Structures and Programming Techniques (X).md",
-    "src/Yale - Systems Programming and Computer Organization (X).md",
-    "src/Systems Programming.md",
-    "src/(X) Data Structures and Programming Techniques.md"
+    "src/My Yale Computer Science Degree.md"
   ]
 }

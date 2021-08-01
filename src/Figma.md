@@ -1,1 +1,1 @@
-[Figma YouTube Channel](https://www.youtube.com/c/Figmadesign/featured)
+[Figma YouTube Channe - -Figma For Beginnersl]([Figma YouTube Channel]https://www.youtube.com/watch?v=dXQ7IHkTiMM&list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4&index=2))
