@@ -7,8 +7,11 @@
         "id": "d2aac208a22ad125",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "src/Ubuntu.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "react native",
+                "query": "testing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "src/Ubuntu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +87,15 @@
   },
   "active": "d2aac208a22ad125",
   "lastOpenFiles": [
-    "React Native Animations.md",
-    "src/React Native.md",
-    "src/Mobile Development.md",
-    "src/Design.md",
-    "src/Figma.md",
-    "README.md",
-    "src/Untitled.md",
-    "src/The Rise of China.md",
-    "src/My Yale Degree.md",
-    "src/My Yale Computer Science Degree.md"
+    "src/Ubuntu.md",
+    "src/TypeScript.md",
+    "src/The Terminal.md",
+    "src/The Internet.md",
+    "src/The Economy of Japan.md",
+    "src/React Testing.md",
+    "Jest.md",
+    "src/Testing.md",
+    "src/Frontend Development.md",
+    "src/Blockchain.md"
   ]
 }
